@@ -1,0 +1,11 @@
+.pio/
+build/
+*.elf
+*.bin
+.vscode/
+secrets.h
+*.local
+__pycache__/
+*.py[cod]
+.venv/
+
