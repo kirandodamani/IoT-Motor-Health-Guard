@@ -4,6 +4,7 @@ build/
 *.bin
 .vscode/
 secrets.h
+config.h
 *.local
 __pycache__/
 *.py[cod]
