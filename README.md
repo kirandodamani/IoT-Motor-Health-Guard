@@ -46,6 +46,7 @@ python simulator/simulate.py --host broker.hivemq.com --topic iot-motor-health-g
 The public broker in the sample is for experimentation only. Use an authenticated private broker for a real deployment.
 
 Detailed wiring and calibration instructions are in [docs/hardware.md](docs/hardware.md).
+For common setup problems, see [docs/troubleshooting.md](docs/troubleshooting.md).
 
 The device posts JSON every five seconds, for example:
 
